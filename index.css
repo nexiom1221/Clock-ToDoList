@@ -1,0 +1,23 @@
+body {
+    background-color: honeydew;
+}
+
+.btn {
+    cursor : pointer;
+}
+
+h1 {
+    color: darkblue;
+}
+
+.clicked {
+    color: gray;
+}
+
+.form , .greeting {
+    display: none;
+}
+
+.showing {
+    display: block;
+}
